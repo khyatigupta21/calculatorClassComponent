@@ -1,12 +1,13 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
-import Component from './calculatorComponent';
+import CalculatorFunctionCompo from './calculatorFunctionComponent';
+import CalculatorClassCompo from './calculatorClassComponent';
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <Component/>
+    <CalculatorClassCompo/>
   </React.StrictMode>,
   document.getElementById('root')
 )

@@ -20,6 +20,7 @@ function App() {
     }
     return (
         <div className="App">
+            <h1>Function Component</h1>
             <h2>Output:{ total }</h2>
             <div className="NumberInputs">
                 <input
