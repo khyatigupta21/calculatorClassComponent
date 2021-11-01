@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  color: #fff;
+  background-color:grey;
+  height: 100vh;
+  padding-top:150px;
+}
+.App h1{
+  margin-bottom: 60px;
+}
+
+.NumberInputs{
+  margin-bottom:30px;
+}
+
+input{
+  font-size: 80px;
+  border-radius: 10px;
+  border: 1px solid darkgrey;
+  width: 10%;
+  padding: 10px;
+  text-align: center;
+  color: #2a1263;
+}
+
+button{
+  font-size: 20px;
+  border-radius: 10px;
+  border: 1px solid darkgrey;
+  width: 10%;
+  padding: 10px;
+  text-align: center;
+  color: #2a1263;
+  margin:5px;
+}
+
